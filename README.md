@@ -5,7 +5,7 @@ Welcome to my collection of frontend projects! This repository showcases my skil
 
 ### 1. Personal Portfolio Website
 * **Description**: A personal website to showcase my skills, projects, and experience.
-* ** Tech Stack**: HTML, CSS, JavaScript
+* **Tech Stack**: HTML, CSS, JavaScript
 
 ### 2. Weather App
 * **Description**: A weather forecasting app that provides weather data based on the user's location or city.
