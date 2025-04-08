@@ -3,9 +3,9 @@ Welcome to my collection of frontend projects! This repository showcases my skil
 
 ## Projects
 
-### 1. Personal Portfolio Website
-* **Description**: A personal website to showcase my skills, projects, and experience.
-* **Tech Stack**: HTML, CSS, JavaScript
+### 1. Flipkart Website Front Page
+* **Description**: The Flipkart front page offers an engaging and dynamic shopping experience, providing easy access to a variety of product categories such as electronics, fashion, home appliances, books, beauty products, and more.
+* **Tech Stack**: HTML, CSS
 
 ### 2. Weather App
 * **Description**: A weather forecasting app that provides weather data based on the user's location or city.
@@ -15,9 +15,9 @@ Welcome to my collection of frontend projects! This repository showcases my skil
 * **Description**: : A simple to-do list application with features to add, edit, and delete tasks.
 * **Tech Stack**: HTML, CSS, JavaScript
 
-### 4. Flipkart Website Front Page
-* **Description**: The Flipkart front page offers an engaging and dynamic shopping experience, providing easy access to a variety of product categories such as electronics, fashion, home appliances, books, beauty products, and more.
-* **Tech Stack**: HTML, CSS
+### 4. Personal Portfolio Website
+* **Description**: A personal website to showcase my skills, projects, and experience.
+* **Tech Stack**: HTML, CSS, JavaScript
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
