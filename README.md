@@ -19,6 +19,12 @@ Welcome to my collection of frontend projects! This repository showcases my skil
 * **Description**: The Flipkart front page offers an engaging and dynamic shopping experience, providing easy access to a variety of product categories such as electronics, fashion, home appliances, books, beauty products, and more.
 * **Tech Stack**: HTML, CSS
 
+|  #  | Project                                                                                                                     | Live Demo                                                                         |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 01 | [Flipkart Clone – Front Page](https://github.com/SwathyKrishna02/Front-End-Projects.com/tree/main/flipkart_clone) | [Live Demo](https://SwathyKrishna02.github.io/Front-End-Projects.com/flipkart_clone/) |
+|
+
+
 ## Future Updates & Enhancements
 Focus on improved responsiveness, faster load times, and integration with modern frameworks.
 
