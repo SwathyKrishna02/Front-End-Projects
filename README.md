@@ -22,7 +22,6 @@ Welcome to my collection of frontend projects! This repository showcases my skil
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01 | [Flipkart Clone – Front Page](https://github.com/SwathyKrishna02/Front-End-Projects.com/tree/main/flipkart_clone) | [Live Demo](https://SwathyKrishna02.github.io/Front-End-Projects.com/flipkart_clone/) |
-|
 
 
 ## Future Updates & Enhancements
