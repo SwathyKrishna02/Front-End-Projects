@@ -7,15 +7,19 @@ Welcome to my collection of frontend projects! This repository showcases my skil
 * **Description**: The Flipkart front page offers an engaging and dynamic shopping experience, providing easy access to a variety of product categories such as electronics, fashion, home appliances, books, beauty products, and more.
 * **Tech Stack**: HTML, CSS
 
-### 2. Weather App
+### 2. MovieFlix -Movie Recommendation System
+* **Description**: 
+* **Tech Stack**: HTML,CSS, JavaScript, React, Bootstrap
+
+### 3. Weather App
 * **Description**: A weather forecasting app that provides weather data based on the user's location or city.
 * **Tech Stack**: HTML, CSS, JavaScript, OpenWeatherMap API
 
-### 3. To-do List App
+### 4. To-do List App
 * **Description**: : A simple to-do list application with features to add, edit, and delete tasks.
 * **Tech Stack**: HTML, CSS, JavaScript
 
-### 4. Personal Portfolio Website
+### 5. Personal Portfolio Website
 * **Description**: A personal website to showcase my skills, projects, and experience.
 * **Tech Stack**: HTML, CSS, JavaScript
 
