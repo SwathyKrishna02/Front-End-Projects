@@ -9,7 +9,7 @@ Welcome to my collection of frontend projects! This repository showcases my skil
 * **Tech Stack**: HTML, CSS
 
 ### 2. MovieFlix -Movie Recommendation System
-* **Description**: 
+* **Description**: The MovieFlix front page offers a dynamic movie discovery experience with easy access to various genres and trending titles. Users can explore personalized recommendations, manage watchlists, and enjoy seamless navigation across movies and TV shows.
 * **Tech Stack**: HTML,CSS, JavaScript, React, Bootstrap
 
 ### 3. Weather App
@@ -27,6 +27,7 @@ Welcome to my collection of frontend projects! This repository showcases my skil
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01 | [Flipkart Clone – Front Page](https://github.com/SwathyKrishna02/Front-End-Projects.com/tree/main/flipkart_clone) | [Live Demo](https://SwathyKrishna02.github.io/Front-End-Projects.com/flipkart_clone/) |
+| 02 | [MovieFlix - Movie Recommendation System](https://github.com/SwathyKrishna02/Front-End-Projects/tree/main/movieflix/movie-app) | [Live Demo]() |
 
 
 ## Future Updates & Enhancements
