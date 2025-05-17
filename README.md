@@ -5,10 +5,10 @@ Welcome to my collection of frontend projects! This repository showcases my skil
 
 ### 1. Flipkart Website Front Page
 * **Description**: The Flipkart front page offers an engaging and dynamic shopping experience, providing easy access to a variety of product categories such as electronics, fashion, home appliances, books, beauty products, and more.
-* **Tech Stack**: HTML, CSS
+* **Tech Stack**: HTML, CSS, Bootstrap
 
 ### 2. MovieFlix -Movie Recommendation System
-* **Description**: 
+* **Description**: The MovieFlix front page offers a dynamic movie discovery experience with easy access to various genres and trending titles. Users can explore personalized recommendations, manage watchlists, and enjoy seamless navigation across movies and TV shows.
 * **Tech Stack**: HTML,CSS, JavaScript, React, Bootstrap
 
 ### 3. Weather App
