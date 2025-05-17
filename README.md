@@ -17,7 +17,7 @@ Welcome to my collection of frontend projects! This repository showcases my skil
 * **Tech Stack**: HTML, CSS, JavaScript, OpenWeatherMap API
 
 ### 4. To-do List App
-* **Description**: : A simple to-do list application with features to add, edit, and delete tasks.
+* **Description**: A simple to-do list application with features to add, edit, and delete tasks.
 * **Tech Stack**: HTML, CSS, JavaScript
 
 ### 5. Personal Portfolio Website
@@ -37,7 +37,8 @@ If you find this project useful, consider starring ⭐ this repository to show y
 
 ## Feedback & Contact
 I welcome feedback, suggestions, and collaboration opportunities. Feel free to reach out via: Email: swathykrishnamany01@gmail.com If you have any suggestions or want to collaborate, feel free to reach out! 
-=======
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
